@@ -1,36 +1,33 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Banking SaaS Platform 🚀  
+A sleek, responsive, and secure financial platform designed to simplify personal finance management by linking multiple bank accounts, tracking real-time transactions, and providing actionable insights.
 
-## Getting Started
+## Features  
+🔗 **Multi-Bank Account Linking**  
+- Integrated **Plaid** for seamless account connectivity and real-time balance updates.
 
-First, run the development server:
+💸 **Fund Transfers**  
+- Enabled secure transfers between linked accounts via **Dwolla** integration.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+🔐 **Secure Authentication**  
+- Implemented **SSR authentication** with robust validations and authorization, ensuring user data privacy and platform security.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+📊 **Financial Insights**  
+- Designed a clean and informative homepage featuring:  
+  - **Total Balance Overview**  
+  - **Recent Transactions List**  
+  - **Categorized Spending Insights** using **Chart.js**.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Tech Stack  
+- **Frontend:** Next.js, TypeScript, React, Tailwind CSS  
+- **Backend:** Appwrite (BaaS)  
+- **Forms & Validation:** React Hook Form, Zod  
+- **Data Visualization:** Chart.js  
+- **Design System:** ShadCN for consistent, sleek UI components
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## UI/UX Highlights  
+- Fully **responsive design**, ensuring seamless experience across devices.  
+- Clean and modern interface built with **Tailwind CSS**.  
+- Intuitive user flows to enhance usability.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Why This Project Stands Out  
+This project showcases my ability to build scalable, real-world financial platforms with a strong focus on clean architecture, responsive design, and robust integrations. By leveraging a modern tech stack and adhering to best practices, I delivered a user-centric product ready for deployment.
