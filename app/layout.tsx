@@ -14,7 +14,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Hogwarts",
+  title: "Bankify",
   description: "Magical Banking Platform.",
   icons: {
     icon: '/icons/logo.svg'
