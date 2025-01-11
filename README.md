@@ -1,6 +1,9 @@
 # Banking SaaS Platform 🚀  
 A sleek, responsive, and secure financial platform designed to simplify personal finance management by linking multiple bank accounts, tracking real-time transactions, and providing actionable insights.
 
+### Homepage:
+![image](https://github.com/user-attachments/assets/e3768aa3-589e-4176-b85a-b75ae6563560)
+
 ## Features  
 🔗 **Multi-Bank Account Linking**  
 - Integrated **Plaid** for seamless account connectivity and real-time balance updates.
