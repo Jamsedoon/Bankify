@@ -47,25 +47,25 @@ Follow these steps to clone the repository and run the project locally:
 2. **Navigate to the Project Directory
    Once the repository is cloned, move into the project folder:
 
-```bash
+
 cd banking
 ```
 
 ### Install Dependencies  
 Make sure you have Node.js installed, then run:  
-```bash
+
 npm install
 ```
 
 ### Run the Development Server  
 Start the local development server with:  
-```bash
+
 npm run dev
 ```
 
 ### Open in VS Code  
 If you use VS Code, you can open the project by running:  
-```bash
+
 code .
 ```
 
