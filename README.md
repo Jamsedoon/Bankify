@@ -39,12 +39,12 @@ This project showcases my ability to build scalable, real-world financial platfo
 
 Follow these steps to clone the repository and run the project locally:
 
-1. **Clone the Repository**  
+**Clone the Repository**  
    Open your terminal and run the following command to clone the main branch:  
    ```bash
    git clone -b main https://github.com/Jamsedoon/Bankify.git
 
-2. **Navigate to the Project Directory
+**Navigate to the Project Directory
    Once the repository is cloned, move into the project folder:
 
 
