@@ -35,33 +35,25 @@ A sleek, responsive, and secure financial platform designed to simplify personal
 ## Why This Project Stands Out  
 This project showcases my ability to build scalable, real-world financial platforms with a strong focus on clean architecture, responsive design, and robust integrations. By leveraging a modern tech stack and adhering to best practices, I delivered a user-centric product ready for deployment.
 
-## Getting Started 🚀
-
-Follow these steps to clone the repository and run the project locally:
-
-**Clone the Repository**  
-   Open your terminal and run the following command to clone the main branch:  
-   ```bash
-   git clone -b main https://github.com/Jamsedoon/Bankify.git
-
-**Navigate to the Project Directory
-   Once the repository is cloned, move into the project folder:
 
 
+### Navigate to the Project Directory  
+Once the repository is cloned, move into the project folder:  
+```
 cd banking
 ```
 
 ### Install Dependencies  
 Make sure you have Node.js installed, then run:  
-
+```
 npm install
 ```
 
 ### Run the Development Server  
 Start the local development server with:  
-
+```
 npm run dev
 ```
 
+
 The app will now be running on [http://localhost:3000](http://localhost:3000). Any changes you make will automatically reflect in the browser.
-```
