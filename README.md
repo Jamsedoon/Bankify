@@ -64,10 +64,5 @@ Follow these steps to clone the repository and run the project locally:
    npm run dev
    ```
 
-5. **Open in VS Code**  
-   If you use VS Code, you can open the project by running:  
-   ```
-   code .
-   ```
 
 The app will now be running on [http://localhost:3000](http://localhost:3000). Any changes you make will automatically reflect in the browser.
